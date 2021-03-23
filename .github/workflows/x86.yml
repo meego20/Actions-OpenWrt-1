@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt for x86
+name: Build openwrt-19.07
 
 on:
   repository_dispatch:
